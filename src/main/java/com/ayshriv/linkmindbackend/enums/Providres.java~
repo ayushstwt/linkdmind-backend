@@ -1,0 +1,5 @@
+package com.ayshriv.linkmindbackend.enums;
+
+public enum Providers {
+
+}
